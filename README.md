@@ -1,3 +1,4 @@
+#Performd multiple observations to increase IoU value and hence have been attached as separate files 
 🚗 Off-Road Semantic Segmentation using DeepLabV3+
 📌 Project Overview
 
